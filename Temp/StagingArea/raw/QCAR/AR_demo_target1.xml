@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="indy_logo" size="494.000000 518.000000" />
+    <ImageTarget name="beautiful_picture2" size="778.000000 921.000000" />
+    <ImageTarget name="strawberry_house" size="65.000000 77.314316" />
+    <ImageTarget name="beautiful_picture1" size="27.450001 32.495438" />
+  </Tracking>
+</QCARConfig>
